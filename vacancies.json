@@ -1,0 +1,44 @@
+[
+    {
+        "title": "ТехЛид / Tech Lead (Python, Django)",
+        "City": "Москва",
+        "company": "ООО ФК ПУЛЬС",
+        "salary": "Зарплата не указана",
+        "link": "https://spb.hh.ru/vacancy/94116819?query=python&hhtmFrom=vacancy_search_list"
+    },
+    {
+        "title": "Middle Python-разработчик",
+        "City": "Москва",
+        "company": "AERODISK",
+        "salary": "140000 – 250000 руб.",
+        "link": "https://spb.hh.ru/vacancy/91632057?query=python&hhtmFrom=vacancy_search_list"
+    },
+    {
+        "title": "Backend-Developer Python (senior)",
+        "City": "Москва",
+        "company": "Онлайн-школа Тетрика",
+        "salary": "Зарплата не указана",
+        "link": "https://spb.hh.ru/vacancy/92346262?query=python&hhtmFrom=vacancy_search_list"
+    },
+    {
+        "title": "ML researcher / Python Разработчик",
+        "City": "Москва",
+        "company": "ИП Мисакян Азгануш Гарниковна",
+        "salary": "Зарплата не указана",
+        "link": "https://spb.hh.ru/vacancy/93120809?query=python&hhtmFrom=vacancy_search_list"
+    },
+    {
+        "title": "Python Developer",
+        "City": "Москва",
+        "company": "ООО Ок Софт",
+        "salary": "Зарплата не указана",
+        "link": "https://spb.hh.ru/vacancy/93072642?query=python&hhtmFrom=vacancy_search_list"
+    },
+    {
+        "title": "Middle/Middle+ Backend Python/Django Developer (Гибрид)",
+        "City": "Москва",
+        "company": "ЧУ ДО Московская школа программистов",
+        "salary": "Зарплата не указана",
+        "link": "https://spb.hh.ru/vacancy/93133157?query=python&hhtmFrom=vacancy_search_list"
+    }
+]
